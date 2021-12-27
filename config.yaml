@@ -1,11 +1,11 @@
-baseurl: "/"
+baseurl: "https://xiangyx7.netlify.app/"
 languageCode: "en-us"
-title: "A minimal Hugo website"
+title: "Yaoxin Xiang | 向尧新"
 theme: "hugo-xmin"
-googleAnalytics: ""
-disqusShortname: ""
 ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 footnotereturnlinkcontents: "↩"
+hasCJKLanguage: true
+enableEmoji: true
 
 permalinks:
   note: "/note/:year/:month/:day/:slug/"
@@ -13,24 +13,22 @@ permalinks:
 
 menu:
   main:
-    - name: Home
+    - name: Home/主页
       url: ""
       weight: 1
-    - name: About
+    - name: About/关于
       url: "about/"
       weight: 2
-    - name: Categories
+    - name: Categories/类别
       url: "categories/"
       weight: 3
-    - name: Tags
+    - name: Tags/标签
       url: "tags/"
       weight: 4
-    - name: Subscribe
-      url: "index.xml"
 
 params:
   description: "A website built through Hugo and blogdown."
-  footer: "&copy; [Yihui Xie](https://yihui.org) 2017 -- 2021 | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
+  footer: "&copy; [Yaoxin Xiang](https://xiangyx7.netlify.app/) 2017 -- 2021 | [Github](https://github.com/xiangyx)"
 
 markup:
   highlight:
