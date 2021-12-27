@@ -1,5 +1,4 @@
 ---
-author: Yaoxin Xiang
 title: About Me
 ---
 
