@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: About
 ---
 
 I like non-measure-theoretical statistics or statistics without much measure theory, and its application in fields such as data science and finance. Among the programming language I used, R is the most familiar one and my favorite, and Python is catching up.
