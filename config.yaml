@@ -25,7 +25,7 @@ menu:
 
 params:
   description: "A website built through Hugo and blogdown."
-  footer: "&copy; [Yaoxin Xiang](https://xiangyx7.netlify.app/) 2021 -- 2021 | [Github](https://github.com/xiangyx)"
+  footer: "&copy; [Yaoxin Xiang](https://yaoxin.me) 2021 -- 2021 | [Github](https://github.com/xiangyx)"
 
 markup:
   highlight:
